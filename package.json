@@ -1,0 +1,23 @@
+{
+  "name": "pim-student-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tehbelmot@bitbucket.org/tehbelmot/pim-student-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.10"
+  },
+  "homepage": "https://bitbucket.org/tehbelmot/pim-student-api#readme"
+}
