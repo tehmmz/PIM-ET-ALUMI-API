@@ -1,6 +1,6 @@
 ### Download and Install Package
 
-### `npm install`
+### `cd ~/PIM-ET-ALUMI` `npm install`
 
 ### Start nodemon
 
