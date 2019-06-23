@@ -4,5 +4,5 @@
 
 ### Start nodemon
 
-### `ndoemon app.js`
+### `nodemon app.js`
 
